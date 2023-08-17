@@ -6,7 +6,7 @@ import edu.princeton.cs.algs4.ST;
 import edu.princeton.cs.algs4.StdOut;
 
 /**
- * @author Cristian Tapiero
+ * @author Cristian Tapiero + Kevin Pineda
  *
  */
 public class Airline implements Comparable<Airline> {
