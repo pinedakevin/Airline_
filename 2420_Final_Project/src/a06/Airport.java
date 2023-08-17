@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.ST;
 
 /**
- * @author Cristian Tapiero
+ * @author Cristian Tapiero + Kevin Pineda
  *
  */
 public class Airport {
